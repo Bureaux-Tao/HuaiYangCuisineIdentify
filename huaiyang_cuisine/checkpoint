@@ -1,0 +1,6 @@
+model_checkpoint_path: "huaiyang_cuisine.ckpt-7900"
+all_model_checkpoint_paths: "huaiyang_cuisine.ckpt-7500"
+all_model_checkpoint_paths: "huaiyang_cuisine.ckpt-7600"
+all_model_checkpoint_paths: "huaiyang_cuisine.ckpt-7700"
+all_model_checkpoint_paths: "huaiyang_cuisine.ckpt-7800"
+all_model_checkpoint_paths: "huaiyang_cuisine.ckpt-7900"
